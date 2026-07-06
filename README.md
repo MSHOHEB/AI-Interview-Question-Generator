@@ -1,3 +1,4 @@
+
 ---
 
 ## 🚀 How to Run (VS Code)
@@ -120,5 +121,9 @@ For major changes, please open an issue first.
 ## 📄 License
 
 MIT License — free to use for learning and portfolio purposes.
+
+---
+
+
 
 
